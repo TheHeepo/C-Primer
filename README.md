@@ -1,3 +1,3 @@
 # C-Primer
 
-I'll be adding my cdoe from C++ Primer to this repository
+I'll be adding my code from C++ Primer to this repository
